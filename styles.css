@@ -1,0 +1,156 @@
+body {
+  background-color: #c2e8ce;
+  margin: 0px;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top:50px aut 0px auto;
+
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  margin-top: 50px;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  width: 30%;
+  margin: auto;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+
+/*********** Classes ****************/
+
+.profilepic{
+  margin: 50px 50px 10px 50px;
+  width: 25%;
+}
+
+.profile{
+  width:50%;
+  margin: auto;
+}
+
+.under-headline{
+  font-weight: normal;
+
+}
+
+.skill-row{
+  width: 50%;
+text-align: left;
+margin: 100px auto 100px auto;
+line-height: 2;
+}
+
+.top-container {
+  margin: 0px;
+  background-color: #f2eee5;
+  width: 1250px;
+  border-width: 0px 10px 20px 30px;
+  padding: 20px;
+  margin-left: 0px;
+    line-height: 1;
+}
+.bottom-container{
+  background-color: #f2eee5;
+}
+
+
+.cloudimage1 {
+  margin-left: 800px;
+  margin-top:30px;
+}
+
+.cloudimage2 {
+  position: relative;
+  left: 70px;
+  bottom: 350px;
+}
+
+
+.Jesus {
+  text-decoration: underline;
+}
+
+.chicken{
+  heigth: 50px;
+  width: 50px;
+  margin-right: 30px;
+  float: left;
+}
+
+.triathlon{
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin-right: 30px;
+}
+
+.public-speaking{
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin-right: 30px;
+}
+
+.public-speaking-headline{
+  clear: right;
+}
+.public-speaking-description{
+  clear: right;
+}
+
+.contact-me{
+  margin-bottom: 100px;
+}
+
+.btn{
+  background-color: #f2eee5; /* Green */
+  border: none;
+  border-radius: 20px;
+  color:  #40514E;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.example_b {
+color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #60a3bc;
+padding: 20px;
+border-radius: 50px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+}
+
+.example_b:hover {
+text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+transition: all 0.4s ease 0s;
+}
